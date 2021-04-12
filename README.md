@@ -1,17 +1,17 @@
 # Tarea 1 - IIC3103 - José Agustín Espíldora
 ## Breaking Bad - Better Call Saul API
 
-### Link Heroku
+### Link
 
 La aplicación se encuentra disponible en este [link de heroku](https://hidden-headland-94532.herokuapp.com/)
 
 ### Para correr localmente la app de este repositorio
 
-En la carpeta donde quieras:
+Clonar repo:
 
 #### `git clone https://github.com/agustinespildora/IIC3103-tarea1.git <nombre carpeta>`
 
-Luego:
+Entrar al proyecto:
 
 #### `cd <nombre carpeta>`
 
